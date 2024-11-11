@@ -1,17 +1,4 @@
 blog/
-├── index.html          # Halaman utama
-├── posts/             # Folder artikel
-│   ├── post-1.html
-│   └── post-2.html
-├── css/
-│   ├── style.css      # Style umum
-│   └── posts.css      # Style khusus artikel
-├── js/
-│   └── main.js        # JavaScript interaktif
-└── assets/           # Gambar, font, dll
-
-
-blog/
 ├── index.html
 ├── about.html
 ├── blog/
