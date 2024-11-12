@@ -1,26 +1,16 @@
 blog/
-├── index.html          # Halaman utama
-├── posts/             # Folder artikel
-│   ├── post-1.html
-│   └── post-2.html
-├── css/
-│   ├── style.css      # Style umum
-│   └── posts.css      # Style khusus artikel
-├── js/
-│   └── main.js        # JavaScript interaktif
-└── assets/           # Gambar, font, dll
-
-
-blog/
 ├── index.html
 ├── about.html
 ├── blog/
-│   ├── index.html      # halaman utama blog (grid layout)
-│   └── posts/          # artikel individual
+│   ├── posts/
+    |    ├── artikel-1.html
+│   └── blog.html      # layout menu grid
 ├── css/
 │   ├── style.css      # style umum + dark mode
-│   ├── particles.css  # khusus landing
-│   └── blog.css      # khusus blog
+│   ├── about.css      
+│   └── article.css
+    └── blog.css
+    └── navbar.css
 ├── js/
 │   ├── particles.js   # untuk landing
 │   └── blog.js       # semua fungsi blog (dark mode, toc, scroll)
